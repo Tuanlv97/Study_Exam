@@ -1,0 +1,12 @@
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\bin\Debug\net6.0\Examination.Infrastructure.deps.json
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\bin\Debug\net6.0\Examination.Infrastructure.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\bin\Debug\net6.0\Examination.Infrastructure.pdb
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\Examination.Infrastructure.csproj.AssemblyReference.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\Examination.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\Examination.Infrastructure.AssemblyInfoInputs.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\Examination.Infrastructure.AssemblyInfo.cs
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\Examination.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\Examination.Infrastructure.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\refint\Examination.Infrastructure.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\Examination.Infrastructure.pdb
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Infrastructure\obj\Debug\net6.0\ref\Examination.Infrastructure.dll

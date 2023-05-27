@@ -1,0 +1,12 @@
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\bin\Debug\net6.0\Examination.Domain.deps.json
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\bin\Debug\net6.0\Examination.Domain.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\bin\Debug\net6.0\Examination.Domain.pdb
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\Examination.Domain.csproj.AssemblyReference.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\Examination.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\Examination.Domain.AssemblyInfoInputs.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\Examination.Domain.AssemblyInfo.cs
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\Examination.Domain.csproj.CoreCompileInputs.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\Examination.Domain.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\refint\Examination.Domain.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\Examination.Domain.pdb
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Domain\obj\Debug\net6.0\ref\Examination.Domain.dll

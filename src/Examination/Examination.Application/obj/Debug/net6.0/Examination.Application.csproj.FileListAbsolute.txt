@@ -1,0 +1,12 @@
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\bin\Debug\net6.0\Examination.Application.deps.json
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\bin\Debug\net6.0\Examination.Application.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\bin\Debug\net6.0\Examination.Application.pdb
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\Examination.Application.csproj.AssemblyReference.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\Examination.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\Examination.Application.AssemblyInfoInputs.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\Examination.Application.AssemblyInfo.cs
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\Examination.Application.csproj.CoreCompileInputs.cache
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\Examination.Application.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\refint\Examination.Application.dll
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\Examination.Application.pdb
+D:\Tuanlv_lap_trinh\TeduExam\src\Examination\Examination.Application\obj\Debug\net6.0\ref\Examination.Application.dll
